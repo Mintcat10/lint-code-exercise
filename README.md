@@ -7,6 +7,10 @@
 * 3.一周最少三道中等级别以上的题目
 
 ### 第一周 20191104-1110
-* 20191107
-    > 1.2_两数之和(twoSum)  
-    > 2.3_无重复字符的最长子串(lengthOfLongestSubstring)
+* 20191107(二)
+    > 2_easy_两数之和(twoSum)  
+    > 3_mid_无重复字符的最长子串(lengthOfLongestSubstring)
+* 20191108(二)
+    > 7_easy_整数反转(reverse)
+    > 8_mid_字符串转换整数(myAtoi) # 正则表达式(待定)
+    
